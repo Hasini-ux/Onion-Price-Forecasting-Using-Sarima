@@ -49,5 +49,4 @@ Raw data → STL Decomposition → ADF Stationarity Test → Differencing → AC
 
 Hasini Gogula and Palem Balaji Koushik
 Christ University, School of Business and Management
-Course: Time Series Analysis and Forecasting (CIA-III)
-Faculty Guide: Dr. Jerrin Issac Sam
+
